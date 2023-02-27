@@ -1,0 +1,6 @@
+[console_scripts]
+topic_cam_pub = learning_topic.topic_cam_pub:main
+topic_cam_sub = learning_topic.topic_cam_sub:main
+topic_helloworld_pub = learning_topic.topic_helloworld_pub:main
+topic_helloworld_sub = learning_topic.topic_helloworld_sub:main
+

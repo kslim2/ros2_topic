@@ -1,0 +1,26 @@
+running egg_info
+writing ../../build/learning_topic/learning_topic.egg-info/PKG-INFO
+writing dependency_links to ../../build/learning_topic/learning_topic.egg-info/dependency_links.txt
+writing entry points to ../../build/learning_topic/learning_topic.egg-info/entry_points.txt
+writing requirements to ../../build/learning_topic/learning_topic.egg-info/requires.txt
+writing top-level names to ../../build/learning_topic/learning_topic.egg-info/top_level.txt
+reading manifest file '../../build/learning_topic/learning_topic.egg-info/SOURCES.txt'
+writing manifest file '../../build/learning_topic/learning_topic.egg-info/SOURCES.txt'
+running build
+running build_py
+copying learning_topic/topic_helloworld_sub.py -> /home/mike/ros2_cool/02-topic/dev_ws/build/learning_topic/build/lib/learning_topic
+copying learning_topic/topic_helloworld_pub.py -> /home/mike/ros2_cool/02-topic/dev_ws/build/learning_topic/build/lib/learning_topic
+running install
+running install_lib
+copying /home/mike/ros2_cool/02-topic/dev_ws/build/learning_topic/build/lib/learning_topic/topic_helloworld_sub.py -> /home/mike/ros2_cool/02-topic/dev_ws/install/learning_topic/lib/python3.10/site-packages/learning_topic
+copying /home/mike/ros2_cool/02-topic/dev_ws/build/learning_topic/build/lib/learning_topic/topic_helloworld_pub.py -> /home/mike/ros2_cool/02-topic/dev_ws/install/learning_topic/lib/python3.10/site-packages/learning_topic
+byte-compiling /home/mike/ros2_cool/02-topic/dev_ws/install/learning_topic/lib/python3.10/site-packages/learning_topic/topic_helloworld_sub.py to topic_helloworld_sub.cpython-310.pyc
+byte-compiling /home/mike/ros2_cool/02-topic/dev_ws/install/learning_topic/lib/python3.10/site-packages/learning_topic/topic_helloworld_pub.py to topic_helloworld_pub.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/mike/ros2_cool/02-topic/dev_ws/install/learning_topic/lib/python3.10/site-packages/learning_topic-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/learning_topic/learning_topic.egg-info to /home/mike/ros2_cool/02-topic/dev_ws/install/learning_topic/lib/python3.10/site-packages/learning_topic-0.0.0-py3.10.egg-info
+running install_scripts
+Installing topic_helloworld_pub script to /home/mike/ros2_cool/02-topic/dev_ws/install/learning_topic/lib/learning_topic
+Installing topic_helloworld_sub script to /home/mike/ros2_cool/02-topic/dev_ws/install/learning_topic/lib/learning_topic
+writing list of installed files to '/home/mike/ros2_cool/02-topic/dev_ws/build/learning_topic/install.log'

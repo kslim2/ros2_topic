@@ -1,0 +1,27 @@
+[0.781s] Invoking command in '/home/mike/ros2_cool/02-topic/dev_ws/src/learning_topic': PYTHONPATH=/home/mike/ros2_cool/02-topic/dev_ws/install/learning_topic/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/learning_topic build --build-base /home/mike/ros2_cool/02-topic/dev_ws/build/learning_topic/build install --prefix /home/mike/ros2_cool/02-topic/dev_ws/install/learning_topic --record /home/mike/ros2_cool/02-topic/dev_ws/build/learning_topic/install.log --single-version-externally-managed
+[1.052s] running egg_info
+[1.053s] writing ../../build/learning_topic/learning_topic.egg-info/PKG-INFO
+[1.054s] writing dependency_links to ../../build/learning_topic/learning_topic.egg-info/dependency_links.txt
+[1.054s] writing entry points to ../../build/learning_topic/learning_topic.egg-info/entry_points.txt
+[1.054s] writing requirements to ../../build/learning_topic/learning_topic.egg-info/requires.txt
+[1.054s] writing top-level names to ../../build/learning_topic/learning_topic.egg-info/top_level.txt
+[1.058s] reading manifest file '../../build/learning_topic/learning_topic.egg-info/SOURCES.txt'
+[1.059s] writing manifest file '../../build/learning_topic/learning_topic.egg-info/SOURCES.txt'
+[1.059s] running build
+[1.059s] running build_py
+[1.059s] copying learning_topic/topic_cam_pub.py -> /home/mike/ros2_cool/02-topic/dev_ws/build/learning_topic/build/lib/learning_topic
+[1.060s] running install
+[1.060s] running install_lib
+[1.061s] copying /home/mike/ros2_cool/02-topic/dev_ws/build/learning_topic/build/lib/learning_topic/topic_cam_pub.py -> /home/mike/ros2_cool/02-topic/dev_ws/install/learning_topic/lib/python3.10/site-packages/learning_topic
+[1.062s] byte-compiling /home/mike/ros2_cool/02-topic/dev_ws/install/learning_topic/lib/python3.10/site-packages/learning_topic/topic_cam_pub.py to topic_cam_pub.cpython-310.pyc
+[1.063s] running install_data
+[1.063s] running install_egg_info
+[1.066s] removing '/home/mike/ros2_cool/02-topic/dev_ws/install/learning_topic/lib/python3.10/site-packages/learning_topic-0.0.0-py3.10.egg-info' (and everything under it)
+[1.066s] Copying ../../build/learning_topic/learning_topic.egg-info to /home/mike/ros2_cool/02-topic/dev_ws/install/learning_topic/lib/python3.10/site-packages/learning_topic-0.0.0-py3.10.egg-info
+[1.067s] running install_scripts
+[1.088s] Installing topic_cam_pub script to /home/mike/ros2_cool/02-topic/dev_ws/install/learning_topic/lib/learning_topic
+[1.088s] Installing topic_cam_sub script to /home/mike/ros2_cool/02-topic/dev_ws/install/learning_topic/lib/learning_topic
+[1.088s] Installing topic_helloworld_pub script to /home/mike/ros2_cool/02-topic/dev_ws/install/learning_topic/lib/learning_topic
+[1.089s] Installing topic_helloworld_sub script to /home/mike/ros2_cool/02-topic/dev_ws/install/learning_topic/lib/learning_topic
+[1.089s] writing list of installed files to '/home/mike/ros2_cool/02-topic/dev_ws/build/learning_topic/install.log'
+[1.128s] Invoked command in '/home/mike/ros2_cool/02-topic/dev_ws/src/learning_topic' returned '0': PYTHONPATH=/home/mike/ros2_cool/02-topic/dev_ws/install/learning_topic/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/learning_topic build --build-base /home/mike/ros2_cool/02-topic/dev_ws/build/learning_topic/build install --prefix /home/mike/ros2_cool/02-topic/dev_ws/install/learning_topic --record /home/mike/ros2_cool/02-topic/dev_ws/build/learning_topic/install.log --single-version-externally-managed
